@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntonisChristaki
-- 👀 I’m interested in Web Developing and Web Aplications
+- 👀 I’m interested in Web Development and Web Applications
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
