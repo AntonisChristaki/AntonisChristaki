@@ -14,63 +14,63 @@
 ## 🛠 Language and tools 
 **Frontend Development**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/></a>
+  <a href='https://github.com/AntonisChristaki'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html"/></a>
   <img width="15"/>
   <a href='https://github.com/AntonisChristaki'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css"/></a>
   <img width="15"/>
-  <a href='https://github.com/AntonisChristaki'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="30" alt="bootstrap"/></a>
+  <a href='https://getbootstrap.com/'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="30" alt="bootstrap"/></a>
   <img width="15"/>
-  <a href='https://github.com/AntonisChristaki'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/></a>
+  <a href='https://react.dev/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Programming Languages**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/></a>
+  <a href='https://www.python.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/></a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/></a>
+  <a href='https://www.javascript.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Database**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="30" alt="mongodb"/></a>
+  <a href='https://www.mongodb.com/'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="30" alt="mongodb"/></a>
   <img width="15"/>
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="30" alt="mysql"/></a>
+  <a href='https://www.mysql.com/'> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="30" alt="mysql"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Frameworks**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/0e/Django-logo.svg/2560px-Django-logo.svg.png" height="30" alt="django"/></a>
+  <a href='https://www.djangoproject.com/'> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/0e/Django-logo.svg/2560px-Django-logo.svg.png" height="30" alt="django"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Version Control**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" height="30" alt="git"/></a>
+  <a href='https://www.git-scm.com/'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" height="30" alt="git"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Softwares**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="visual studio"/></a>
+  <a href=https://code.visualstudio.com/'> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="visual studio"/></a>
   <img width="15" />
-  <a href='https://github.com/AntonisChristaki'>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" height="30" alt="note++"/></a>
+  <a href='https://www.gitkraken.com/'>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhKLTA4GoSc9YnTlITyUvtThe2JWScTdFmA&s" height="30" alt="GitKraken"/></a>
   <img width="15" />
 </div>
 
 ##
 **Static Site Generators**
 <div align="left">
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/2560px-Wix.com_website_logo.svg.png" height="20" alt="wix"/></a>
+  <a href='https://www.wix.com/'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/2560px-Wix.com_website_logo.svg.png" height="20" alt="wix"/></a>
   <img width="15"/>
-  <a href='https://github.com/AntonisChristaki'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Weebly_logo.svg/1200px-Weebly_logo.svg.png" height="20" alt="weebly"/></a>
+  <a href='https://www.weebly.com/'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Weebly_logo.svg/1200px-Weebly_logo.svg.png" height="20" alt="weebly"/></a>
   <img width="15"/>
 </div>
 
