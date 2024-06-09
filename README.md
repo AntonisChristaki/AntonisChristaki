@@ -5,10 +5,10 @@
 - If you have a project that you want to get started or think you need my help with something, **then get in touch**.
 
 ## Overview
-- 👀 I’m interested in Web Development and Web Applications.
+- 👀 I’m interested in **Web Development** and **Web Applications**.
 - 🌱 I’m currently learning **PHP**.
 - 💞️ I’m looking to collaborate on **new projects**.
-- ⚒ All my projects can be found can be found on my portfolio.
+- ⚒ All my projects can be found can be found on my **portfolio**.
 - 📫 How to reach me: **antonischristaki@gmail.com**.
 
 ## 🛠 Language and tools 
