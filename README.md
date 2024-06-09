@@ -85,14 +85,14 @@
 
 **FrontEnd Developer**
 <div align="left">
-  <a href='https://www.credly.com/badges/f18bfd88-4182-422a-93bc-a2d8c183169d/public_url'> <img src="https://images.credly.com/images/32eec81d-5ecd-4d3e-bf7d-11e338b5ad60/image.png" height="70" alt="frontend"/></a>
+  <a href='https://www.credly.com/badges/f18bfd88-4182-422a-93bc-a2d8c183169d/public_url' target="_blank"> <img src="https://images.credly.com/images/32eec81d-5ecd-4d3e-bf7d-11e338b5ad60/image.png" height="70" alt="frontend"/></a>
   <img width="15"/>
 </div>
 
 ##
 **Full Stack Developer**
 <div align="left">
-  <a href='https://www.credly.com/badges/37037ae5-11f2-4f54-a85c-409a29188211/public_url'> <img src="https://images.credly.com/images/61d2ccb9-5632-4ec1-8e9c-5306ec41bb6d/image.png" height="70" alt="full-stack"/></a>
+  <a href='https://www.credly.com/badges/37037ae5-11f2-4f54-a85c-409a29188211/public_url' target="_blank"> <img src="https://images.credly.com/images/61d2ccb9-5632-4ec1-8e9c-5306ec41bb6d/image.png" height="70" alt="full-stack"/></a>
   <img width="15"/>
 </div>
 
@@ -120,10 +120,10 @@
 ##
 **Agile Project Management**
 <div align="left">
-  <a href='https://coursera.org/share/2c4ee1467fdf527bb556f2d4c43567c9'><img src="https://unichrone.com/blog/wp-content/uploads/agile-methodologies-logo-287x300.png" height="70" alt="agile"/></a>
+  <a href='https://coursera.org/share/2c4ee1467fdf527bb556f2d4c43567c9' target="_blank><img src="https://unichrone.com/blog/wp-content/uploads/agile-methodologies-logo-287x300.png" height="70" alt="agile"/></a>
   <img width="15"/>
 </div>
 
 ## 🔥 My Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonischristaki&show_icons=true&locale=en&layout=compact" alt="antonischristaki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonischristaki&show_icons=true&locale=en&layout=compact target="_blank" alt="antonischristaki" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonischristaki&show_icons=true&locale=en" alt="antonischristaki" /></p>
