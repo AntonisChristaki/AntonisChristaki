@@ -50,6 +50,13 @@
 </div>
 
 ##
+**Content Management System**
+<div align="left">
+  <a href='https://wordpress.org/' target='_blank'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/2048px-Wordpress-Logo.svg.png" height="30" alt="git"/></a>
+  <img width="15"/>
+</div>
+
+##
 **Version Control**
 <div align="left">
   <a href='https://www.git-scm.com/' target='_blank'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" height="30" alt="git"/></a>
